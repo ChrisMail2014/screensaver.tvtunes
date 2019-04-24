@@ -1,9 +1,6 @@
 [[https://github.com/robwebset/screensaver.tvtunes/raw/master/icon.png]]
 
 == Introduction ==
-You can install this addon from: [https://www.urepo.org URepo Repository]
-<br />
-<br />
 TvTunes Screensaver is a versatile screensaver that can be used to:
 * View artwork for TV Shows and Movies
 * Play TV or Movie themes while showing artwork
