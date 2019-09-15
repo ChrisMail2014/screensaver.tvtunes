@@ -1,12 +1,15 @@
-[[https://github.com/robwebset/screensaver.tvtunes/raw/master/icon.png]]
+[[https://github.com/latts9923/screensaver.tvtunes/raw/master/icon.png]]
 
 == Introduction ==
+You can install this addon from: [https://www.urepo.org URepo Repository]
+<br />
+<br />
 TvTunes Screensaver is a versatile screensaver that can be used to:
 * View artwork for TV Shows and Movies
 * Play TV or Movie themes while showing artwork
 * Show a set of different images in various display formats
 
-It was originally designed to work well with [https://github.com/robwebset/script.tvtunes TvTunes] but can also be used to just display images if you would rather theme audio was not played in the background.
+It was originally designed to work well with [https://github.com/latts9923/script.tvtunes TvTunes] but can also be used to just display images if you would rather theme audio was not played in the background.
 
 <br />
 
@@ -14,25 +17,25 @@ It was originally designed to work well with [https://github.com/robwebset/scrip
 The following formats are available within TvTunes Screensaver
 {| border="0"
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Slider.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Slider.JPG|400px]]
 |'''Slider''' - This will slide the images into view from either the left, right, top or bottom of the screen.
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Crossfade.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Crossfade.JPG|400px]]
 |'''Crossfade''' - will fade one image in over the top of the next image
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Tabledrop.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Tabledrop.JPG|400px]]
 |'''TableDrop''' - will drop each image onto the screen at random overlaps and angles
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Starwars.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-Starwars.JPG|400px]]
 |'''StarWars''' - will show a stream of images similar to the Star Wars intro sequence
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-RandomZoomIn.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-RandomZoomIn.JPG|400px]]
 |'''RandomZoomIn''' - will randomly zoom in to each image in turn
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-AppleTVLike.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-AppleTVLike.JPG|400px]]
 |'''AppleTVLike''' - like the Apple TV Screensaver, will scroll a mix of images up from the bottom of the screen
 |- valign=top
-| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-GridSwitch.JPG|400px]]
+| [[https://github.com/latts9923/repository.latts9923/raw/master/screensaver.tvtunes/images/TvTunes-Screensaver-GridSwitch.JPG|400px]]
 |'''GridSwitch''' - will show several images at the same time in a grid format
 |- valign=top
 | 
