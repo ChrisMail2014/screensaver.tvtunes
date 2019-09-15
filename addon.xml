@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="screensaver.tvtunes" name="TvTunesScreensaver" version="100.4.0" provider-name="robwebset">
+<addon id="screensaver.tvtunes" name="TvTunesScreensaver" version="100.4.1" provider-name="latts">
 	<requires>
 		<import addon="xbmc.python" version="2.20.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
-		<import addon="script.tvtunes" version="6.3.2"/>
+		<import addon="service.tvtunes" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.ui.screensaver" library="default.py"/>
 	<extension point="xbmc.python.script" library="default.py"/>
@@ -13,7 +13,7 @@
 		<language></language>
 		<platform>all</platform>
 		<license>See LICENSE.txt</license>
-		<forum>https://github.com/robwebset/screensaver.tvtunes</forum>
+		<forum>https://github.com/latts9923/screensaver.tvtunes</forum>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
