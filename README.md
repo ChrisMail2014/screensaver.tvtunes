@@ -13,10 +13,10 @@ The TvTunes screensaver is a screensaver that will allow you to:
 
 There are several different display options and playing the theme at the same time is optional.
 
-Although the name does hint at [TvTunes](https://github.com/robwebset/script.tvtunes) integration - that is only part of it's behaviour. By selecting "Image Source: Folder" in the settings, you can use it for just images.
+Although the name does hint at [TvTunes](https://github.com/latts9923/service.tvtunes) integration - that is only part of it's behaviour. By selecting "Image Source: Folder" in the settings, you can use it for just images.
 
 History: This addon was once part of the official TvTunes addon, but was split out into it's own addon to allow more user control.
 
 More details, and how to use the addon can be viewed on the wiki:
 
-[Add-on:TvTunesScreensaver](https://github.com/robwebset/screensaver.tvtunes/wiki)
+[Add-on:TvTunesScreensaver](https://github.com/latts9923/screensaver.tvtunes/wiki)
